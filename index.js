@@ -43,4 +43,8 @@ console.log("factorial: " + factorial(3));
 
 const array1 = [1, 2, 3, 4];
 const array2 = [10, 10, 20, 20];
+<<<<<<< HEAD
 console.log("arraySum: " + arraySum(array1, array2));
+=======
+console.log("arraySum: " + arraySum(array1, array2));
+>>>>>>> 2bf114ee76524d81144f9c533335a4cb7c0b787e
