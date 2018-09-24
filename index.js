@@ -9,6 +9,7 @@ function sum(a, b) {
     return a + b;
 }
 
+// Returns the biggest number between a and b
 function max(a, b) {
     if (a > b) {
         return a;
