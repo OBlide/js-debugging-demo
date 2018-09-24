@@ -4,7 +4,7 @@ function substract(a, b) {
 }
 
 
-//a + b
+// Returns the result of a + b
 function sum(a, b) {
     return a + b;
 }
