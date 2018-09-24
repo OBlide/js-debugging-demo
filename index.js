@@ -9,6 +9,7 @@ function sum(a, b) {
     return a + b;
 }
 
+//function max
 function max(a, b) {
     if (a > b) {
         return a;
